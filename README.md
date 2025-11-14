@@ -1,2 +1,2 @@
 # python-telegram-convertor
-python telegram bot that convert your files
+Python telegram bot that convert your files
